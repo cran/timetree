@@ -1,0 +1,13 @@
+21f95a20424f41790528a7949ad8700b *DESCRIPTION
+28f67c9b9aff91756f29f020a54c9787 *NAMESPACE
+0a3cc020841669eb6c5420882acc2d6c *R/author.search.R
+323220d5c87791d553fd9c128ee0edb1 *R/references.list.R
+ccdef99cbb94c701d9eb9dc4fdd85998 *R/timetree.R
+8833293aba102760828ea8d2ec89467c *R/timetree.phylo.R
+f5c2d4bd1928057f1c80be5648dda9cb *data/dikarya.rda
+3d2431b61979fd1d1f243ab50c703976 *man/author.search.Rd
+e5eb4e0301aadab5456d2208b100efec *man/dikarya.Rd
+378231e2c18f081fc1a551683ba3d0a4 *man/references.list.Rd
+7e44e302a174b16a9325d086724846d3 *man/time.tree-package.Rd
+37388901f890e96e37475e9f978d4f8f *man/timetree.Rd
+2163020d4b19b00824d4b805551448b0 *man/timetree.phylo.Rd
